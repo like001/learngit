@@ -1,7 +1,6 @@
 1 我的心
 2 在等待
-<<<<<<< HEAD
-=======
 3 永远在等待
 4 switch to a new branch
->>>>>>> dev
+5 is waitting
+
